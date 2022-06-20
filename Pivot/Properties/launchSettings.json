@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Pivot": {
+      "commandName": "Project",
+      "commandLineArgs": "--df=M/d/yyyy test.csv out.csv"
+    }
+  }
+}
